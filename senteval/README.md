@@ -14,7 +14,7 @@ To reproduce the numbers reported in our paper, you need the following pretraine
 2. [CoVe](https://github.com/salesforce/cove):
       - [Small](https://drive.google.com/open?id=1oKhZRN2SbZTbU4l-dkldR4Vc6Somce2w), [Medium](https://drive.google.com/open?id=1wOr6LQhw1bv-M841d9bGZAT397hJwAWm), [Large](https://drive.google.com/file/d/1SCDBAmvUXO0iPXGDFP2dtMgtjEj66uw7/view?usp=sharing)
 3. [GenSen](https://github.com/Maluuba/gensen)
-      - Download the weight and vocab files from [here](https://github.com/Maluuba/gensen/blob/master/data/models/download_models.sh). We use the `nli_large_bothskip` and `nli_large_bothskip_parse` models from GenSen.
+      - Download the weight and vocab files from [here](https://github.com/Maluuba/gensen/blob/master/data/models/download_models.sh). Please read the [transfer evaluation](https://github.com/Maluuba/gensen#transfer-learning-evaluations) section. In our work, we used the `nli_large_bothskip` and `nli_large_bothskip_parse` models from GenSen.
 4. [Sent2vec](https://github.com/wasiahmad/universal_sentence_encoder)
       - We share the weights of the single-task encoders [here](https://drive.google.com/open?id=19aOTqOY-BrOBP_if-7rQhCfpyqIUjW1-).
       - We share the weights of the single-task encoders [here](https://drive.google.com/open?id=11qXHLZnhbuLw4caAi4-KyyoZ5InNxE7-).
