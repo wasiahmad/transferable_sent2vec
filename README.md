@@ -1,3 +1,3 @@
-# Universal Sentence Encoder
+# Learning Robust, Transferable Sentence Representations for Text Classification
 
-Goal of this project is to develop a universal sentence encoder by training on different domain/application dataset.
+In this work, we show that jointly learning sentence representations from multiple text classification tasks and combining them with pre-trained word-level and sentence level encoders result in robust sentence representations that are useful for transfer learning.
