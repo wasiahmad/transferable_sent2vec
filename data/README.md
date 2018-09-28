@@ -32,8 +32,3 @@ The task dataset (called the Multi-Genre NLI Corpus, or MultiNLI) consist of <b>
 Quora question dataset consists of over <b>400,000</b> lines of potential question duplicate pairs. Each line contains IDs for each question in the pair, the full text for each question, and a binary value that indicates whether the line truly contains a duplicate pair. Quora dataset split from the paper - <a href="https://github.com/zhiguowang/BiMPM">BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences</a> can be found <a href="https://drive.google.com/file/d/0B0PlTAo--BnaQWlsZl9FZ3l1c28/view">here</a>.
 <p align="justify">
 
-### [CQADupStack](http://nlp.cis.unimelb.edu.au/resources/cqadupstack/)
-
-<p align="justify">
-CQADupStack is a benchmark dataset for community question-answering (cQA) research. More details can be found in the paper - <a href="http://dl.acm.org/citation.cfm?id=2838934">CQADupStack: A Benchmark Data Set for Community Question-Answering Research</a>.
-<p align="justify">
